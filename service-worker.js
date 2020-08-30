@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bodymovin-logo/precache-manifest.3387750c8f7b9ca26c79d846c4e3abbd.js"
+  "/bodymovin-logo/precache-manifest.6fb73b66c673fc4b4bfad268135ff18c.js"
 );
 
 self.addEventListener('message', (event) => {
