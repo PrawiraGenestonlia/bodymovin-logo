@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bodymovin-logo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/bodymovin-logo/static/js/main.5583e2cd.chunk.js",
-    "main.js.map": "/bodymovin-logo/static/js/main.5583e2cd.chunk.js.map",
+    "main.js": "/bodymovin-logo/static/js/main.e7e08e72.chunk.js",
+    "main.js.map": "/bodymovin-logo/static/js/main.e7e08e72.chunk.js.map",
     "runtime-main.js": "/bodymovin-logo/static/js/runtime-main.5d66d329.js",
     "runtime-main.js.map": "/bodymovin-logo/static/js/runtime-main.5d66d329.js.map",
     "static/js/2.443a7bc8.chunk.js": "/bodymovin-logo/static/js/2.443a7bc8.chunk.js",
     "static/js/2.443a7bc8.chunk.js.map": "/bodymovin-logo/static/js/2.443a7bc8.chunk.js.map",
     "index.html": "/bodymovin-logo/index.html",
-    "precache-manifest.244f0803fd928254a82319e2f7e88fc2.js": "/bodymovin-logo/precache-manifest.244f0803fd928254a82319e2f7e88fc2.js",
+    "precache-manifest.9a57f014bf109198d3871f976261deec.js": "/bodymovin-logo/precache-manifest.9a57f014bf109198d3871f976261deec.js",
     "service-worker.js": "/bodymovin-logo/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/bodymovin-logo/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.443a7bc8.chunk.js.LICENSE.txt": "/bodymovin-logo/static/js/2.443a7bc8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5d66d329.js",
     "static/js/2.443a7bc8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5583e2cd.chunk.js"
+    "static/js/main.e7e08e72.chunk.js"
   ]
 }
