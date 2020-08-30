@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bodymovin-logo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bodymovin-logo/static/js/main.df8afb1d.chunk.js",
+    "main.js.map": "/bodymovin-logo/static/js/main.df8afb1d.chunk.js.map",
+    "runtime-main.js": "/bodymovin-logo/static/js/runtime-main.5d66d329.js",
+    "runtime-main.js.map": "/bodymovin-logo/static/js/runtime-main.5d66d329.js.map",
+    "static/js/2.443a7bc8.chunk.js": "/bodymovin-logo/static/js/2.443a7bc8.chunk.js",
+    "static/js/2.443a7bc8.chunk.js.map": "/bodymovin-logo/static/js/2.443a7bc8.chunk.js.map",
+    "index.html": "/bodymovin-logo/index.html",
+    "precache-manifest.3387750c8f7b9ca26c79d846c4e3abbd.js": "/bodymovin-logo/precache-manifest.3387750c8f7b9ca26c79d846c4e3abbd.js",
+    "service-worker.js": "/bodymovin-logo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bodymovin-logo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.443a7bc8.chunk.js.LICENSE.txt": "/bodymovin-logo/static/js/2.443a7bc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d66d329.js",
+    "static/js/2.443a7bc8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.df8afb1d.chunk.js"
+  ]
+}
