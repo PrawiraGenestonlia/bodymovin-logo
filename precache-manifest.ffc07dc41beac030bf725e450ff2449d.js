@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2623878c69257952865df764b974bb64",
+    "revision": "56093b35c5fedf81db3939c52fd89600",
     "url": "/bodymovin-logo/index.html"
   },
   {
