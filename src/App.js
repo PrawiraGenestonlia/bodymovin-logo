@@ -3,7 +3,7 @@ import './App.css';
 import lottie from 'lottie-web';
 import { useMouseState, useWindowResize } from 'beautiful-react-hooks';
 
-const TOTAL_FRAME = 150;
+const TOTAL_FRAME = 100;
 
 function App() {
   const ref = useRef();
@@ -18,7 +18,7 @@ function App() {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-      path: 'T&O Logo.json' // the path to the animation json
+      path: 'T&O Logo3.json' // the path to the animation json
     });
     setAnimation(anim);
   }, []);
@@ -35,7 +35,7 @@ function App() {
   }, [animation, clientX, clientY, width]);
 
   return (
-    <div id="bm" style={{ width: '1080px', height: '100%' }} ref={ref}>
+    <div id="bm" style={{ width: '100%', height: '100%' }} ref={ref}>
 
     </div>
   );
